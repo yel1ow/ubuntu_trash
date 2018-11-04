@@ -1,14 +1,6 @@
 /*
 *
 *
-* Must be:
-* server
-* listen the port and accept connections
-* reply with current time
-* multithreading
-* demonize
-* kill childrens
-*
 *
 */
 

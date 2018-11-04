@@ -1,11 +1,6 @@
 /*
 *
 *
-* Must be:
-* client
-* send query to the server and wait for reply
-* show reply
-*
 *
 */
 

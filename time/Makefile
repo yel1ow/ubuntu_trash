@@ -4,7 +4,6 @@ compiler=gcc
 executable=time
 default_ip=127.0.0.1
 default_port=54321
-std=-std=c11
 
 all:
 	echo "nothing to compile"
