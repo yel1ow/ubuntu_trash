@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "socket.h": "c",
+        "types.h": "c",
+        "stdio.h": "c",
+        "net.h": "c"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "C_Cpp.errorSquiggles": "Enabled"
+}
